@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class q1 {
+class q3 {
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Press 1 for juice or 2 for soda.");
